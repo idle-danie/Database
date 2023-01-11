@@ -1,2 +1,3 @@
-# Database assignments
+# Database study
+## assignments
 ### Postgresql
