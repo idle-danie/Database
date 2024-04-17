@@ -1,2 +1,3 @@
 # Database 
-## Java projects & SQL study
+## Java projects 
+## SQL study
