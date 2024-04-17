@@ -1,3 +1,2 @@
-# Database study
-## project & assignments
-### Postgresql
+# Database 
+## Java projects & SQL study
